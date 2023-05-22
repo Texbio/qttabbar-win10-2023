@@ -1,20 +1,20 @@
 # qttabbar-win10-2023
 Notes: If you want to add something to the general config make an Issue in github. A github account is required.
 
-Installing:
+**Installing**:
 Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe`
 
 ! Please use one of the newer versions of QTTabBar, as this config was made for those versions.
 
-Requirements:
+**Requirements**:
  .NET Framework 4.8 is required, https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
-Errors when installing:
+**Errors when installing**:
 - Loop error: Open task manager with Ctrl+Alt+Delete and select Task manager, 
 disable QTTabBar from startup and then restart your pc.
 
 
-Quick instructions: 
+**Quick instructions**: 
 1. After installing QTTabBar, open your file explorer and click on `View` (upper left)
 
 2. Click the dropdown under `Options` and select `QTTabBar` (If you do not see this,
@@ -26,7 +26,7 @@ all the way of the bottom of the context menu.
 4. Go to the `General` tab, then select `Import Now`. Import the latest version 
 of the file ending in .yml. The window should close and you should be able to make more tabs.
 
-Controls:
+**Controls**:
 Basic Controls-
 double click on a tab to unlock/lock
 Other controls found in the Events tab.
@@ -35,7 +35,7 @@ Other controls found in the Events tab.
 
 
 
-Errors in instruction?
+**Errors in instructions?**
 1. ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b)
 
 2. ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84)
