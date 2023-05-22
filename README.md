@@ -3,6 +3,7 @@ Notes: If you want to add something to the general config make an Issue in githu
 
 Installing:
 Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe`
+
 ! Please use one of the newer versions of QTTabBar, as this config was made for those versions.
 
 Requirements:
