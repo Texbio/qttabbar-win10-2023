@@ -5,28 +5,28 @@
 
 
 
-**Notes**: 
+**Notes**
 - I am not the creator of this program and am only dumping my config here for the general public to use.
 
 
 
-**Installing**:
+**Installing**
 - Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe` from above.
 
 
 
-**Requirements**:
+**Requirements**
  - .NET Framework 4.8 is required, https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 
 
-**Errors when installing**:
+**Errors when installing**
 - Loop error: Open task manager with Ctrl+Alt+Delete and select Task manager, 
 disable QTTabBar from startup and then restart your pc.
 
 
 
-**Quick instructions**: 
+**Quick instructions**
 1. After installing QTTabBar, open your file explorer and click on `View` (upper left)
 
 2. Click the dropdown under `Options` and select `QTTabBar` (If you do not see this,
@@ -39,7 +39,7 @@ all the way of the bottom of the context menu.
 of the file ending in .yml. The window should close and you should be able to make more tabs.
 
 
-**Controls**:
+**Controls**
 Basic Controls-
 Helpful windows controls: 
 
