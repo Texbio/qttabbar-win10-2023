@@ -49,13 +49,19 @@ Other controls found in the Events tab.
 
 **Errors in instructions?**
 
-1. ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b)
+1. 
+![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b)
 
-2. ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84)
+
+2.
+![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84)
 If you do not see this that means it was not installed correctly.
 
-3. ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/fe0ddfed-6856-44c0-987c-619ac372f609)
-If you do not see this, that means you clicked on the incorrect option or
-something is not working properly.
 
-4-5 If you are having issues here then you are probally not on windows 10 or using a newer version. Make an issue in github so I can resolve it.
+3. 
+![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/fe0ddfed-6856-44c0-987c-619ac372f609)
+If you do not see this, that means you clicked on the incorrect option orsomething is not working properly.
+
+4-5 
+If you are having issues here then you are probally not on windows 10 or using a newer version. 
+Make an issue in github so I can resolve it.
