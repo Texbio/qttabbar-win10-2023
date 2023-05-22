@@ -44,7 +44,7 @@ Basic Controls-
 double click on a tab to unlock/lock
 Other controls found in the Events tab.
 
-![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab)
+||![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab)||
 
 
 
