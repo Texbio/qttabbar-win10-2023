@@ -1,7 +1,13 @@
 # qttabbar-win10-2023
+**Why Install QTTabBar?**
+- Its good for productivity and will keep you from trying to manage files on multiple monitors.
+- Windows 11 already has this feature, so why cant windows 10?
+
+
+
 **Notes**: 
 
-If you want to add something to the general config make an Issue in github. A github account is required.
+I am not the creator of this program and am only dumping my config here for the general public to use.
 
 
 
@@ -41,7 +47,18 @@ of the file ending in .yml. The window should close and you should be able to ma
 **Controls**:
 
 Basic Controls-
-double click on a tab to unlock/lock
+Helpful windows controls: 
+
+CTRL+N New File Explorer Window
+CTRL+D Delete item(s) selected
+CTRL+C Copy CTRL+X Paste
+
+
+QTTabBar Controls:
+
+Double click on the middle of a tab to unlock/lock
+Use scroll wheel to move between tabs
+
 Other controls found in the Events tab.
 
 ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab)
