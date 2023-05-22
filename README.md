@@ -39,15 +39,12 @@ all the way of the bottom of the context menu.
 of the file ending in .yml. The window should close and you should be able to make more tabs.
 
 
-**Controls**
-Basic Controls-
-Helpful windows controls: 
+**File Explorer Controls**
+- CTRL+N New File Explorer Window
+- CTRL+D Delete item(s) selected
+- CTRL+C Copy CTRL+X Paste
 
-CTRL+N New File Explorer Window
-CTRL+D Delete item(s) selected
-CTRL+C Copy CTRL+X Paste
-
-QTTabBar Controls:
+**QTTabBar Controls**
 - Double click on the middle of a tab to unlock/lock.
 - Use scroll wheel to move between tabs.
 Other controls found in the Events tab.
