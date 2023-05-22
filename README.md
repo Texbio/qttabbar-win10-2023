@@ -6,32 +6,27 @@
 
 
 **Notes**: 
-
-I am not the creator of this program and am only dumping my config here for the general public to use.
+- I am not the creator of this program and am only dumping my config here for the general public to use.
 
 
 
 **Installing**:
-
-Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe` from above.
+- Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe` from above.
 
 
 
 **Requirements**:
-
- .NET Framework 4.8 is required, https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+ - .NET Framework 4.8 is required, https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 
 
 **Errors when installing**:
-
 - Loop error: Open task manager with Ctrl+Alt+Delete and select Task manager, 
 disable QTTabBar from startup and then restart your pc.
 
 
 
 **Quick instructions**: 
-
 1. After installing QTTabBar, open your file explorer and click on `View` (upper left)
 
 2. Click the dropdown under `Options` and select `QTTabBar` (If you do not see this,
@@ -45,7 +40,6 @@ of the file ending in .yml. The window should close and you should be able to ma
 
 
 **Controls**:
-
 Basic Controls-
 Helpful windows controls: 
 
@@ -53,12 +47,9 @@ CTRL+N New File Explorer Window
 CTRL+D Delete item(s) selected
 CTRL+C Copy CTRL+X Paste
 
-
 QTTabBar Controls:
-
-Double click on the middle of a tab to unlock/lock
-Use scroll wheel to move between tabs
-
+- Double click on the middle of a tab to unlock/lock.
+- Use scroll wheel to move between tabs.
 Other controls found in the Events tab.
 
 ![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab)
