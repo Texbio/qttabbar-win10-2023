@@ -1,32 +1,26 @@
 # qttabbar-win10-2023
-**Why Install QTTabBar?**
+## Why Install QTTabBar?
 - Its good for productivity and will keep you from trying to manage files on multiple monitors.
+- Text and Image previews (You can add ones not included in the previews section in settings)
 - Windows 11 already has this feature, so why cant windows 10?
 
 
-
-**Notes**
+## Notes
 - I am not the creator of this program and am only dumping my config here for the general public to use.
 
-
-
-**Installing**
+## Installing
 - Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe` from above.
 
-
-
-**Requirements**
+## Requirements
  - .NET Framework 4.8 is required, https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 
-
-**Errors when installing**
+## Errors when installing
 - Loop error: Open task manager with Ctrl+Alt+Delete and select Task manager, 
 disable QTTabBar from startup and then restart your pc.
 
 
-
-**Quick instructions**
+## Quick instructions
 1. After installing QTTabBar, open your file explorer and click on `View` (upper left)
 
 2. Click the dropdown under `Options` and select `QTTabBar` (If you do not see this,
@@ -39,35 +33,39 @@ all the way of the bottom of the context menu.
 of the file ending in .yml. The window should close and you should be able to make more tabs.
 
 
+## Controls
 **File Explorer Controls**
 - CTRL+N New File Explorer Window
 - CTRL+D Delete item(s) selected
-- CTRL+C Copy CTRL+X Paste
+- CTRL+W Close Window
+- CTRL+C Copy 
+- CTRL+X Paste
 
 **QTTabBar Controls**
 - Double click on the middle of a tab to unlock/lock.
 - Use scroll wheel to move between tabs.
 Other controls found in the Events tab.
-
-![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab)
-
+<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab" width=17% height=17%>
 
 
-**Errors in instructions?**
+## Errors in instructions?
+### 1. 
+<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b" width=25% height=25%>
 
-1. 
-![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b)
-
-
-2.
-![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84)
-If you do not see this that means it was not installed correctly.
+- Click on View
 
 
-3. 
-![image](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/fe0ddfed-6856-44c0-987c-619ac372f609)
-If you do not see this, that means you clicked on the incorrect option orsomething is not working properly.
+### 2. 
+<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84" width=17% height=17%>
 
-4-5 
-If you are having issues here then you are probally not on windows 10 or using a newer version. 
-Make an issue in github so I can resolve it.
+- If you do not see this that means .NET Framework 4.8 was not installed or that
+QTTabBar is not working with your system for some unknown reason
+
+
+### 3. 
+<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/fe0ddfed-6856-44c0-987c-619ac372f609" width=25% height=25%>
+
+- If you do not see this, that means you clicked on the incorrect option or something is not working properly.
+
+### 4
+- If you are having issues here then you are probably not on windows 10 or using a newer version. 
