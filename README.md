@@ -30,7 +30,7 @@ that means it was not installed properly).
 all the way of the bottom of the context menu.
 
 4. Go to the `General` tab, then select `Import Now`. Import the latest version 
-of the file ending in .yml. The window should close and you should be able to make more tabs.
+of the file ending in .xml. The window should close and you should be able to make more tabs.
 
 
 ## Controls
