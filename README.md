@@ -45,7 +45,7 @@ of the file ending in .xml. The window should close and you should be able to ma
 **QTTabBar Controls**
 - Double click on the middle of a tab to unlock/lock.
 - Use scroll wheel to move between tabs.
-Other controls found in the Events tab.
+- Other controls found in the Events tab.
 <img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab" width=17% height=17%>
 
 
