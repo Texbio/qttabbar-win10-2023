@@ -38,6 +38,7 @@ of the file ending in .xml. The window should close and you should be able to ma
 - CTRL+N New File Explorer Window
 - CTRL+D Delete item(s) selected
 - CTRL+W Close Window
+- CTRL+TAB Switch Tab/Window
 - CTRL+C Copy 
 - CTRL+X Paste
 
