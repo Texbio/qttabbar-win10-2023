@@ -57,10 +57,11 @@ of the file ending in .xml. The window should close and you should be able to ma
 
 
 ### 2. 
+- Click on The Dropdown arrow for the "Options" button
 <img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84" width=17% height=17%>
 
 - If you do not see this that means .NET Framework 4.8 was not installed or that
-QTTabBar is not working with your system for some unknown reason. Try reinstalling QTTabBar and .NET Framework 4.8.
+QTTabBar is not working with your system for some unknown reason. Try reinstalling QTTabBar and .NET Framework 4.8 using the link above.
 
 
 ### 3. 
