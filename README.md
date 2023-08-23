@@ -10,6 +10,7 @@
 
 ## Notes
 - I am not the creator of this program and am only dumping my config here for the general public to use.
+- Main reason for uploading this config is because the program is not worth using without configing it.
 
 ## Installing
 - Install QTTabBar v2048+ from http://qttabbar.wikidot.com/ or download `QTTabBar - v2048 b2.exe` from above.
