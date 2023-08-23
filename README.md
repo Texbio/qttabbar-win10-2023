@@ -1,4 +1,4 @@
-# qttabbar-win10-2023
+# QTTabBar-win10-2023
 ## Why Install QTTabBar?
 - Its good for productivity and will keep you from trying to manage files on multiple monitors.
 - Text and Image previews (You can add ones not included in the previews section in settings)
@@ -23,10 +23,13 @@ disable QTTabBar from startup and then restart your pc.
 ## Quick instructions
 1. After installing QTTabBar, open your file explorer and click on `View` (upper left)
 
-2. Click the dropdown under `Options` and select `QTTabBar` (If you do not see this,
-that means it was not installed properly).
+<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b" width=25% height=25%>
 
-3. Right click NEXT to the + sign and select the `QTTabBar Options` option
+2. Click on the arrow dropdown for `Options` and select `QTTabBar` (NET Framework 4.8 NEEDS TO BE INSTALLED, restart computer or re-install qtabbar if you don't see this)
+
+<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84" width=17% height=17%>.
+
+3. Right click the + sign and select `QTTabBar Options` option
 all the way of the bottom of the context menu.
 
 4. Go to the `General` tab, then select `Import Now`. Import the latest version 
@@ -47,27 +50,3 @@ of the file ending in .xml. The window should close and you should be able to ma
 - Use scroll wheel to move between tabs.
 - Other controls found in the Events tab.
 <img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/57276c96-719b-4465-ada7-57f72a694eab" width=17% height=17%>
-
-
-## Errors in instructions?
-### 1. 
-<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/f7ff926d-d508-41d2-9e31-1c0aeb77f21b" width=25% height=25%>
-
-- Click on View
-
-
-### 2. 
-- Click on The Dropdown arrow for the "Options" button
-<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/c53bdf97-c0c5-48cb-a738-f7a878989d84" width=17% height=17%>
-
-- If you do not see this that means .NET Framework 4.8 was not installed or that
-QTTabBar is not working with your system for some unknown reason. Try reinstalling QTTabBar and .NET Framework 4.8 using the link above.
-
-
-### 3. 
-<img src="https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/fe0ddfed-6856-44c0-987c-619ac372f609" width=25% height=25%>
-
-- If you do not see this, that means you clicked on the incorrect option or something is not working properly.
-
-### 4
-- If you are having issues here then you are probably not on windows 10 or using a newer version. 
