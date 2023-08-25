@@ -21,7 +21,7 @@
 
 ## Errors when installing
 - Loop error: Open task manager with Ctrl+Alt+Delete and select Task manager, 
-disable QTTabBar from startup and then restart your pc.
+disable QTTabBar from startup and then restart your pc. DOWNLOAD .NET Framework TO FIX!
 
 
 ## Quick instructions
