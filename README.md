@@ -35,6 +35,9 @@ disable QTTabBar from startup and then restart your pc. This usually happens if 
 
 3. Right click the + sign and select `QTTabBar Options` option
 all the way of the bottom of the context menu.
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/c692d23a-e141-423c-a825-efe91913e242" />
+
+
 
 4. Go to the `General` tab, then select `Import Now`. Import the latest version 
 of the file ending in .xml. The window should close and you should be able to make more tabs.
