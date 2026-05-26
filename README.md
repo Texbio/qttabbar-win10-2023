@@ -8,8 +8,8 @@
 
 
 ## Supported Versions
-- Windows 10 - not sure
-- Windows 11 - works when using ExplorerPatcher to use windows 10 file explorer
+- Windows 10 - tested 1803H
+- Windows 11 - tested 2H22, works when using ExplorerPatcher to use windows 10 file explorer
 
 ## Notes
 - I am not the creator of this program and am only dumping my config here for the general public to use.
