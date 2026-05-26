@@ -3,10 +3,13 @@
 - Its good for productivity and will keep you from trying to manage files on multiple monitors.
 - Text and Image previews (You can add ones not included in the previews section in settings)
 - Windows 11 already has this feature, so why cant windows 10?
-- Also you can use this on Windows 11 if you use ExplorerPatcher to switch to a windows 10 explorer 
 
 ![QTTabBar](https://github.com/Texbio/qttabbar-win10-2023/assets/36513888/eeac48cb-f058-4c93-a2de-9826b578961a)
 
+
+## Supported Versions
+- Windows 10 - not sure
+- Windows 11 - works when using ExplorerPatcher to use windows 10 file explorer
 
 ## Notes
 - I am not the creator of this program and am only dumping my config here for the general public to use.
